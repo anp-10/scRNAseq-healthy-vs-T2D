@@ -1,0 +1,21 @@
+# Nextflow
+work/
+.nextflow*
+_STARtmp/
+
+# Data (entire directory)
+data/
+
+# Results
+results/
+*.bam
+*.log
+
+# Python/Jupyter
+__pycache__/
+.ipynb_checkpoints/
+Pipfile.lock
+
+# System
+.DS_Store
+Thumbs.db
